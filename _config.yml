@@ -103,7 +103,7 @@ scheme: Mist
 #scheme: Gemini
 
 # Dark Mode
-darkmode: false
+darkmode: true
 
 
 # ---------------------------------------------------------------
@@ -684,11 +684,6 @@ baidu_analytics: # <app_id>
 
 # Growingio Analytics
 growingio_analytics: # <project_id>
-
-# Google Analytics
-google_analytics:
-  tracking_id: #tracking_id
-  localhost_ignored: true
 
 # CNZZ count
 cnzz_siteid:
