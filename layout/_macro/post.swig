@@ -110,7 +110,7 @@
           {%- if theme.firestore.enable %}
             <span class="post-meta-item" title="{{ __('post.views') }}">
               <span class="post-meta-item-icon">
-                <i class="fa fa-users"></i>
+                <i class="fa fa-eye"></i>
               </span>
               <span class="post-meta-item-text">{{ __('post.views') + __('symbol.colon') }}</span>
               <span class="firestore-visitors-count"></span>
